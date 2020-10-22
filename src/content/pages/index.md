@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Jeremy Bauer
 tagline: Content Designer
-featuredImage: /assets/profile-pic-glitched.jpg
+featuredImage: /assets/profile-pic-glitched-150x150.png
 cta:
   ctaText: Know more
   ctaLink: /about
