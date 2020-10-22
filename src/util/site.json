@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Jeremy Bauer",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Content designer/UX writer with 8+ years of experience in product and technical content strategy. Former saw player and current comic book lover. ",
+    "siteUrl": "https://jeremybauer.space",
     "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@barnabybones"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "G-4PHWPX7DRM"
 }
